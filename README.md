@@ -34,4 +34,12 @@ Three annotated datasets (DB1, DB2, and DB3) were used, containing images labele
 - Used **torch-explain** to generate attention heatmaps highlighting important regions in images.
 
 ## Examples of Usage
+### Videos
 [Watch Fire Detection Usage](https://github.com/MarkOmelyanenko/AI-fire-detection.MarkOmelyanenko.github.io/tree/main/Videos)
+
+### Screenshots
+![Screenshot 1](https://github.com/MarkOmelyanenko/AI-fire-detection.MarkOmelyanenko.github.io/blob/main/screenshots/screenshot_1.png)
+![Screenshot 2](https://github.com/MarkOmelyanenko/AI-fire-detection.MarkOmelyanenko.github.io/blob/main/screenshots/screenshot_2.png)
+![Screenshot 3](https://github.com/MarkOmelyanenko/AI-fire-detection.MarkOmelyanenko.github.io/blob/main/screenshots/screenshot_3.png)
+![Screenshot 4](https://github.com/MarkOmelyanenko/AI-fire-detection.MarkOmelyanenko.github.io/blob/main/screenshots/screenshot_4.png)
+![Screenshot 5](https://github.com/MarkOmelyanenko/AI-fire-detection.MarkOmelyanenko.github.io/blob/main/screenshots/screenshot_5.png)
